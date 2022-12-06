@@ -1,6 +1,16 @@
 # 02 Advanced CSS: Portfolio
 
+This is the to show the Portfolio Page made with HTML and CSS only. This is for future emloyers.
+
 ## Your Task
+
+The task is to create a Portoflio page with a :
+-recent photo of myself
+-my name 
+-links to each section from the navbar
+-a short paragraph about myself
+-my current portfolio
+-ways to contact me
 
 ## User Story
 
@@ -33,7 +43,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
+this is a screenshot of the page
+
+![Screenshot (5)](https://user-images.githubusercontent.com/117127694/205815908-d3667ed7-1815-4837-be7b-8fd42ab27b66.png)
+
+
 
 
 
