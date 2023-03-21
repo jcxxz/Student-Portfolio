@@ -160,7 +160,7 @@ nav ul li a:hover, footer ul li a:hover{
     outline: none;
 }
 
-#msg{
+#message{
     background-color: lightgray;
     width: 20%;
     padding: 10px;
@@ -180,3 +180,4 @@ nav ul li a:hover, footer ul li a:hover{
     cursor: pointer;
     box-shadow: 0 0 10px green;
 }
+
